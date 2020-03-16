@@ -1,0 +1,15 @@
+.color {
+    color: red;
+}
+.q {
+    background-color: yellow;
+    display: block;
+    margin: 20px;
+    width: 80px;
+}
+.width {
+    display: block;
+    width: 90px;
+    height: 50px;
+    background-color: red;
+}
